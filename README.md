@@ -14,4 +14,4 @@ bun dev
 
 ## Todo list
 - [x] Create a header bar
-- [ ] Create a theme toggle on the header bar
+- [ ] Lr-001 Create a theme toggle on the header bar

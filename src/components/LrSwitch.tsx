@@ -1,3 +1,4 @@
+"use client"
 import { Switch } from '@headlessui/react'
 import { useState } from 'react'
 
